@@ -1,0 +1,15 @@
+/home/jimmi/repos/github/jhested/dotnetwasm/WasmConsoleApp/bin/Debug/net6.0/WasmConsoleApp
+/home/jimmi/repos/github/jhested/dotnetwasm/WasmConsoleApp/bin/Debug/net6.0/WasmConsoleApp.deps.json
+/home/jimmi/repos/github/jhested/dotnetwasm/WasmConsoleApp/bin/Debug/net6.0/WasmConsoleApp.runtimeconfig.json
+/home/jimmi/repos/github/jhested/dotnetwasm/WasmConsoleApp/bin/Debug/net6.0/WasmConsoleApp.dll
+/home/jimmi/repos/github/jhested/dotnetwasm/WasmConsoleApp/bin/Debug/net6.0/WasmConsoleApp.pdb
+/home/jimmi/repos/github/jhested/dotnetwasm/WasmConsoleApp/obj/Debug/net6.0/WasmConsoleApp.csproj.AssemblyReference.cache
+/home/jimmi/repos/github/jhested/dotnetwasm/WasmConsoleApp/obj/Debug/net6.0/WasmConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/jimmi/repos/github/jhested/dotnetwasm/WasmConsoleApp/obj/Debug/net6.0/WasmConsoleApp.AssemblyInfoInputs.cache
+/home/jimmi/repos/github/jhested/dotnetwasm/WasmConsoleApp/obj/Debug/net6.0/WasmConsoleApp.AssemblyInfo.cs
+/home/jimmi/repos/github/jhested/dotnetwasm/WasmConsoleApp/obj/Debug/net6.0/WasmConsoleApp.csproj.CoreCompileInputs.cache
+/home/jimmi/repos/github/jhested/dotnetwasm/WasmConsoleApp/obj/Debug/net6.0/WasmConsoleApp.dll
+/home/jimmi/repos/github/jhested/dotnetwasm/WasmConsoleApp/obj/Debug/net6.0/refint/WasmConsoleApp.dll
+/home/jimmi/repos/github/jhested/dotnetwasm/WasmConsoleApp/obj/Debug/net6.0/WasmConsoleApp.pdb
+/home/jimmi/repos/github/jhested/dotnetwasm/WasmConsoleApp/obj/Debug/net6.0/WasmConsoleApp.genruntimeconfig.cache
+/home/jimmi/repos/github/jhested/dotnetwasm/WasmConsoleApp/obj/Debug/net6.0/ref/WasmConsoleApp.dll
